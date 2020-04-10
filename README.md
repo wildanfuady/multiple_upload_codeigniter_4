@@ -30,4 +30,4 @@ Buka URL: ```localhost:8080/upload```
 
 Selesai.
 
-Tutorial Lengkap: [https://ilmucoding.com/multiple-upload-codeigniter-4/]https://ilmucoding.com/multiple-upload-codeigniter-4/
+Tutorial Lengkap: [https://ilmucoding.com/multiple-upload-codeigniter-4/]
